@@ -57,7 +57,9 @@ pip install -r requirements.txt
 Create a `.env` file:
 
 GROQ_API_KEY=your_groq_key_here
+
 LANGCHAIN_TRACING_V2=false
+
 LANGCHAIN_API_KEY=
 
 ## Run
