@@ -65,7 +65,6 @@ LANGCHAIN_API_KEY=
 ```bash
 python tests/test_pipeline.py
 ```
-bro 
 
 ## Author
 
